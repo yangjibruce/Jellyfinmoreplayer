@@ -3,7 +3,7 @@ This script enables Jellyfin to support external players such as PotPlayer, VLC,
 The implementation is based on and improved from the original script JellyfinMorePlayer https://greasyfork.org/zh-CN/scripts/481318-jellyfinmoreplayer . We extend our thanks to the original author for their contribution. 
 
 ### BUG Fix Log
-- Fixed the issue where clicking the external player button in the original version would sometimes simultaneously open the internal player
+- Fixed the issue where clicking the external player button in the original version would sometimes accidentally open the internal player simultaneously
 
 ✅ Tested on Jellyfin for Windows version 10.10.7. Other platforms should follow a similar process.
 
