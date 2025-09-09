@@ -6,7 +6,7 @@ The implementation is based on and improved from the original script JellyfinMor
 
 ## Installation Method 1: Direct File Placement
 
-- Download jellyfinmoreplayers.js .
+- Download jellyfinmoreplayers.js
 
 - Place the file into the following directory:
 `C:\Program Files\Jellyfin\Server\jellyfin-web\`
@@ -15,14 +15,14 @@ The implementation is based on and improved from the original script JellyfinMor
 
 `<script type="text/javascript" src="jellyfinmoreplayer.js"></script>`
 
-- Restart the Jellyfin server.
+- Restart the Jellyfin server
 
 ## Installation Method 2: Tampermonkey Userscript
 
-- Install the Tampermonkey extension in your browser.
+- Install the Tampermonkey extension in your browser
 
-- Create a new userscript and paste the contents of jellyfinmoreplayer.js into it.
+- Create a new userscript and paste the contents of jellyfinmoreplayer.js into it
 
-- Save the script and ensure it is enabled.
+- Save the script and ensure it is enabled
 
 Note: Please make sure restart the service after completing the changes.
