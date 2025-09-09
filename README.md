@@ -19,7 +19,7 @@ The implementation is based on and improved from the original script JellyfinMor
 
 - Open `C:\Program Files\Jellyfin\Server\jellyfin-web\index.html` , go to the bottom, and add the following code just before the final `</html>` tag:
 
-`<script type="text/javascript" src="jellyfinmoreplayer.js"></script>`
+`<script type="text/javascript" src="JellyfinMorePlayer.js"></script>`
 
 - Restart the Jellyfin server. Sometimes, modifications may not take effect immediately and require refreshing the client browser cache.
 
@@ -27,6 +27,6 @@ The implementation is based on and improved from the original script JellyfinMor
 
 - Install the Tampermonkey extension in your browser.
 
-- Create a new userscript and paste the contents of jellyfinmoreplayer.js into it.
+- Create a new userscript and paste the contents of JellyfinMorePlayer.js into it.
 
 - Save the script and ensure it is enabled.
