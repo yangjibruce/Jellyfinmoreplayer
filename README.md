@@ -14,7 +14,7 @@ The implementation is based on and improved from the original script JellyfinMor
 - Place the file into the following directory:
 `C:\Program Files\Jellyfin\Server\jellyfin-web\`
 
-- Open `C:\Program Files\Jellyfin\Server\jellyfin-web\index.html` , go to the bottom, and add the following code just above the final `</html>` tag:
+- Open `C:\Program Files\Jellyfin\Server\jellyfin-web\index.html` , go to the bottom, and add the following code just before the final `</html>` tag:
 
 `<script type="text/javascript" src="jellyfinmoreplayer.js"></script>`
 
