@@ -3,7 +3,7 @@ This script enables Jellyfin to support external players such as PotPlayer, VLC,
 The implementation is based on and improved from the original script JellyfinMorePlayer https://greasyfork.org/zh-CN/scripts/481318-jellyfinmoreplayer . We extend our thanks to the original author for their contribution. 
 
 ### BUG Fix Log
-- Fixed the issue where clicking the external player button in the original version would sometimes accidentally open the internal player simultaneously
+- Fixed the issue where clicking the external player button in the original version would sometimes accidentally open the internal player simultaneously.
 
 ✅ Tested on Jellyfin for Windows version 10.10.7. Other platforms should follow a similar process.
 
@@ -18,14 +18,12 @@ The implementation is based on and improved from the original script JellyfinMor
 
 `<script type="text/javascript" src="jellyfinmoreplayer.js"></script>`
 
-- Restart the Jellyfin server
+- Restart the Jellyfin server. Sometimes, modifications may not take effect immediately and require refreshing the client browser cache.
 
 ## Installation Method 2: Tampermonkey Userscript
 
-- Install the Tampermonkey extension in your browser
+- Install the Tampermonkey extension in your browser.
 
-- Create a new userscript and paste the contents of jellyfinmoreplayer.js into it
+- Create a new userscript and paste the contents of jellyfinmoreplayer.js into it.
 
-- Save the script and ensure it is enabled
-
-Note: Please make sure restart the service after completing the changes.
+- Save the script and ensure it is enabled.
