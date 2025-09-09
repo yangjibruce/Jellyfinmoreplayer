@@ -6,7 +6,7 @@ The implementation is based on and improved from the original script JellyfinMor
 
 ## Installation Method 1: Direct File Placement
 
-- Download jellyfinmoreplayers.js.
+- Download jellyfinmoreplayers.js .
 
 - Place the file into the following directory:
 `C:\Program Files\Jellyfin\Server\jellyfin-web\`
