@@ -1,5 +1,6 @@
 # Jellyfinmoreplayer - New Version
 This script enables Jellyfin to support external players such as PotPlayer, VLC, IINA, NPlayer, MXPlayer, and Infuse Player.
+
 <img width="436" height="268" alt="image" src="https://github.com/user-attachments/assets/a1ecdf79-31ef-4f63-9913-f45cdf6370be" />
 
 The implementation is based on and improved from the original script JellyfinMorePlayer https://greasyfork.org/zh-CN/scripts/481318-jellyfinmoreplayer . We extend our thanks to the original author for their contribution. 
